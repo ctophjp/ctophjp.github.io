@@ -24,6 +24,10 @@ a:hover {
 .text-primary {
   color: #20639b !important;
 }
+.rata {
+  text-align: left;
+  margin-left: 100px;
+}
 
 h1,
 h2,
